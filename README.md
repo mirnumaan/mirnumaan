@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Numaan Bahir Mir
 - 👀 I’m interested in Data Science     
-- 🌱 I’m currently studying Articial Intelligence and it various techniques to handle the datasets
+- 🌱 I’m currently studying Articial Intelligence. 
 - 💞️ for colaboration on AI based project and workspace
 - 📫 u can also reach me through my email id : mirnumaan06@gmail.com
 
