@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mirnumaan
-- 👀 I’m interested in web development    
-- 🌱 I’m currently studying and working on django python and reactjs projects 
-- 💞️ for colaboration on web based project and workspace
+- 👋 Hi, I’m Numaan Bahir Mir
+- 👀 I’m interested in Data Science     
+- 🌱 I’m currently studying Articial Intelligence and it various techniques to handle the datasets
+- 💞️ for colaboration on AI based project and workspace
 - 📫 u can also reach me through my email id : mirnumaan06@gmail.com
 
 <!---
