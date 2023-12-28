@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Numaan Bahir Mir
-- 👀 I’m interested in Cyber Security     
+- 👀 I’m interested in Cyber Security in    
 - 🌱 I’m currently studying Master of Cyber Security. 
-- 💞️ for collaboration on AI based projects and workspace
-- 📫 u can also reach me through my email id: mirnumaan06@gmail.com
+- 💞️ For collaboration on Cyber and web dev based projects and workspace
+- 📫 You can also reach me through my email id: mirnumaan06@gmail.com
 
 <!---
 mirnumaan/mirnumaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
